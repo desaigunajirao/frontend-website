@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    padding-left: 100px;
+    text-decoration: none;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: 24px;
+    height: 350px;
+}
+
+.p1{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 100px;
+    gap: 20px;
+    font-size: 18px;
+    color: #e5e7eb;
+    
+}
+.p11 {
+    display: flex;
+    justify-content: flex-start;
+    padding-right: 100px;
+    gap: 10px;
+    font-size: 18px;
+        color: #e5e7eb;
+
+}
+.hero{
+    display: flex;
+}
+.head3{
+    text-decoration: none;
+        color: #F9FAF8;
+}
+
+.hero2{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+    display: flex;
+}
+.btn{
+    color: #e5e7eb;
+    background-color: #3882F6;
+    height: 10%;
+    width: 15%;
+    padding: 0px;
+}
+.hero3{
+    background-color: rgb(45, 39, 39);
+    height: 150px;
+    width: 350px;
+    color: azure;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+#im{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 15px;
+}
+#pt1{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.cont{
+display: flex;
+justify-content: center;
+gap: 50px;
+
+}
+.cont1{
+    height: 120px;
+    width: 120px;
+    border: solid 2px #3882F6;
+    border-radius: 8px;
+    margin-top: 30px;
+}
+.contd {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+.contd1,.contd2,.contd3,.contd4{
+    height: 120px;
+        width: 150px;
+        text-align: center;
+        font-size: 15px;
+}
+.q1{
+    background-color: #e5e7eb;
+    color: #1F2937;
+    font-size: 36px;
+    text-align: center;
+}
+.pq1{
+    font-style: italic;
+}
+.pq2{
+    font-size: 20px;
+    font-style: bold;
+    text-align: right;
+    margin-right: 310px;
+    color: black;
+}
+.b1{
+background-color:#3882F6;
+    color:white;
+    height: 90px;
+    width: 850px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+
+.btn1{
+    background-color: #3882F6;
+    color: white;
+    margin-top: 40px;
+}
+.bt1{
+    margin-top: 30px;
+    margin-right: 250px;
+}
+
+.footer{
+    background-color: #1F2937;
+    color: #e5e7eb;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 50px;
+}
