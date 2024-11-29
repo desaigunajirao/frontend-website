@@ -45,11 +45,12 @@
     display: flex;
 }
 .btn{
-    color: #e5e7eb;
     background-color: #3882F6;
-    height: 10%;
-    width: 15%;
-    padding: 0px;
+        color: white;
+        margin-top: 10px;
+        padding: 5px 15px;
+        border-radius: 5px;
+        border: 1px solid #3882F6;
 }
 .hero3{
     background-color: rgb(45, 39, 39);
@@ -129,6 +130,9 @@ background-color:#3882F6;
     background-color: #3882F6;
     color: white;
     margin-top: 40px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: 1px solid white;
 }
 .bt1{
     margin-top: 30px;
